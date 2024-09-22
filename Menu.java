@@ -1,7 +1,3 @@
-Aquí tienes un ejemplo de código para un menú en Java con 7 opciones:
-
-
-```
 import java.util.Scanner;
 
 public class Menu {
